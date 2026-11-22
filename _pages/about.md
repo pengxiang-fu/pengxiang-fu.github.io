@@ -32,8 +32,6 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 # 📝 Recent Work (First / Co-first Author) | <sup>†</sup> Equal Contribution
 
-## Journal Papers
-
 <div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
   <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;width:45%;max-width:45%;min-width:280px;aspect-ratio:16/9;object-fit:contain;background:#fff;margin:0;border-radius:12px;">
   <div style="flex:1 1 320px;min-width:280px;">
@@ -42,8 +40,6 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     <em>Expert Systems with Applications (ESWA), 2026</em>. <span class="metric-highlight">IF = 9.4</span>.</p>
   </div>
 </div>
-
-## Conference Papers
 
 <div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
   <img src="/images/ijcnn-2025-overview-results.png" alt="Sender-receiver framework and experimental results for predefined-time synchronization control" style="display:block;flex:1 1 320px;width:45%;max-width:45%;min-width:280px;aspect-ratio:16/9;object-fit:contain;background:#fff;margin:0;border-radius:12px;">
