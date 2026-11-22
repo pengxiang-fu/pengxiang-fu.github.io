@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I’m Pengxiang Fu (付鹏翔). I am a master's student in Biomedical Engineering at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/) under the supervision of [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 
-My research focuses on **fetal brain imaging**, **medical image atlas construction**, and **medical image registration**.
+My research focuses on **medical image analysis** and **fetal brain atlas construction**.
 
 
 # 🔥 News
