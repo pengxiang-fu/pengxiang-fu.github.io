@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Pengxiang Fu"
 description              : "Academic homepage of Pengxiang Fu, a master's student in Biomedical Engineering at ShanghaiTech University."
-repository               : "PengxiangFu2003/PengxiangFu2003.github.io"
+repository               : "pengxiang-fu/pengxiang-fu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PengxiangFu2003"
+  github           : "pengxiang-fu"
   google_plus      :
   keybase          :
   instagram        :
