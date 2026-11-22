@@ -45,10 +45,15 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 ## Conference Papers
 
-**Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks**<br>
-Mengwei Niu<sup>†</sup>, **Pengxiang Fu<sup>†</sup>**, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
-*2025 International Joint Conference on Neural Networks (IJCNN 2025)*<br>
-<a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" target="_blank" rel="noopener noreferrer">Paper</a>
+<div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
+  <img src="/images/ijcnn-2025-results.png" alt="Experimental results for predefined-time synchronization control" style="display:block;flex:1 1 320px;max-width:45%;min-width:280px;height:auto;margin:0;border-radius:12px;">
+  <div style="flex:1 1 320px;min-width:280px;">
+    <p style="margin:0;"><strong>Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks</strong><br>
+    Mengwei Niu<sup>†</sup>, <strong>Pengxiang Fu<sup>†</sup></strong>, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
+    <em>2025 International Joint Conference on Neural Networks (IJCNN 2025)</em><br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" target="_blank" rel="noopener noreferrer">Paper</a></p>
+  </div>
+</div>
 
 <span class='anchor' id='funding'></span>
 
