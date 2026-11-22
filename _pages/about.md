@@ -35,7 +35,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 ## Journal Papers
 
 <div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
-  <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;max-width:45%;min-width:280px;height:auto;margin:0;">
+  <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;max-width:45%;min-width:280px;height:auto;margin:0;border-radius:12px;">
   <div style="flex:1 1 320px;min-width:280px;">
     <p style="margin:0;"><strong>Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization</strong><br>
     <strong>Pengxiang Fu</strong>, Bin Guan, Jinkun Yao<br>
