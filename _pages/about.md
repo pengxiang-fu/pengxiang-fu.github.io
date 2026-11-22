@@ -30,7 +30,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications | <sup>†</sup> Equal Contribution
+# 📝 Recent Work | <sup>†</sup> Equal Contribution
 
 ## Journal Papers
 
