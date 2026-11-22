@@ -23,6 +23,7 @@ My research focuses on **fetal brain imaging**, **medical image atlas constructi
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 荣获 **第十五届“挑战杯”中国大学生创业计划竞赛主体赛全国一等奖**。
 - *2026.11*: &nbsp;🎉 One paper was accepted by *Expert Systems with Applications (ESWA)*. <span class="metric-highlight">IF = 9.4</span>.
 - *2026.07*: Joined [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/) at [ShanghaiTech University](https://www.shanghaitech.edu.cn/) under the supervision of [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 - *2025.04*: &nbsp;🎉 One paper was accepted by IJCNN 2025.
