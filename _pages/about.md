@@ -34,9 +34,14 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 ## Journal Papers
 
-**Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization**  
-**Pengxiang Fu**, Bin Guan, Jinkun Yao  
-*Expert Systems with Applications (ESWA), 2026*. <span class="metric-highlight">IF = 9.4</span>.
+<div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
+  <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;max-width:45%;min-width:280px;height:auto;margin:0;">
+  <div style="flex:1 1 320px;min-width:280px;">
+    <p style="margin:0;"><strong>Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization</strong><br>
+    <strong>Pengxiang Fu</strong>, Bin Guan, Jinkun Yao<br>
+    <em>Expert Systems with Applications (ESWA), 2026</em>. <span class="metric-highlight">IF = 9.4</span>.</p>
+  </div>
+</div>
 
 ## Conference Papers
 
