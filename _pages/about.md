@@ -38,7 +38,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
   <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;width:45%;max-width:45%;min-width:280px;aspect-ratio:16/9;object-fit:contain;background:#fff;margin:0;border-radius:12px;">
   <div style="flex:1 1 320px;min-width:280px;">
     <p style="margin:0;"><strong>Bone-DETR: Skeletal Context and Progressive Memory for Extremity Fracture Localization</strong><br>
-    <strong>Pengxiang Fu</strong>, Bin Guan, Jinkun Yao<br>
+    <strong>Pengxiang Fu</strong>, Bin Guan<sup>*</sup>, Jinkun Yao<br>
     <em>Expert Systems with Applications (ESWA), 2026</em>. <span class="metric-highlight">IF = 9.4</span>.</p>
   </div>
 </div>
@@ -47,7 +47,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
   <img src="/images/ijcnn-2025-overview-results.png" alt="Sender-receiver framework and experimental results for predefined-time synchronization control" style="display:block;flex:1 1 320px;width:45%;max-width:45%;min-width:280px;aspect-ratio:16/9;object-fit:contain;background:#fff;margin:0;border-radius:12px;">
   <div style="flex:1 1 320px;min-width:280px;">
     <p style="margin:0;"><strong>Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks</strong><br>
-    Mengwei Niu<sup>†</sup>, <strong>Pengxiang Fu<sup>†</sup></strong>, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
+    Mengwei Niu<sup>†</sup>, <strong>Pengxiang Fu<sup>†</sup></strong>, Hui Zhao<sup>*</sup>, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
     <em>2025 International Joint Conference on Neural Networks (IJCNN 2025)</em><br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" style="text-decoration:none;" target="_blank" rel="noopener noreferrer">Paper</a></p>
   </div>
