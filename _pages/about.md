@@ -49,7 +49,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     <p style="margin:0;"><strong>Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks</strong><br>
     Mengwei Niu<sup>†</sup>, <strong>Pengxiang Fu<sup>†</sup></strong>, Hui Zhao, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
     <em>2025 International Joint Conference on Neural Networks (IJCNN 2025)</em><br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" target="_blank" rel="noopener noreferrer">Paper</a></p>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" style="text-decoration:none;" target="_blank" rel="noopener noreferrer">Paper</a></p>
   </div>
 </div>
 
