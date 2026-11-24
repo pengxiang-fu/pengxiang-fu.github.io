@@ -92,7 +92,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 - *2026*: <span class="metric-highlight"><strong>National First Prize</strong></span> **(Main Competition), 15th “Challenge Cup” China College Students’ Entrepreneurship Competition** — *《掌测宝——国内首台纸基果蔬农残高精准现场即时检测仪》* (China’s <span class="metric-highlight"><strong>first</strong></span> high-precision, paper-based, on-site rapid detector for pesticide residues in fruits and vegetables). **Participant**.
 - *2026*: **UJN Outstanding Graduate**
 - *2026*: **UJN Outstanding Graduation Thesis**
-- *2025.12*: **“Jida Star” Recognition**, University of Jinan — university-wide honor awarded to <span class="metric-highlight">20</span> students each year.
+- *2025.12*: **“UJN Star” Recognition**, University of Jinan — university-wide honor awarded to <span class="metric-highlight">20</span> students each year.
 - *2021–2026*: **University-Level Honors**, University of Jinan — received nearly <span class="metric-highlight">30</span> university-level honors during undergraduate study, including Outstanding Student, Outstanding Student Cadre, Advanced Individual in Social Work, Outstanding Young Volunteer, Outstanding League Cadre, and Outstanding League Member.
 
 # 📖 Education
