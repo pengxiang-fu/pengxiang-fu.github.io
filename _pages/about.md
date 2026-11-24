@@ -65,12 +65,12 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 ## CN Invention Patents
 
-- *2025*: [一种基于分数阶忆阻神经网络的信号加解密方法及系统](https://pss-system.cponline.cnipa.gov.cn/) (**进入实质审查**, **第二发明人（学生第一发明人）**)
-- *2024*: [基于四维忆阻混沌系统的图像加密与检索方法、系统](https://pss-system.cponline.cnipa.gov.cn/) (**进入实质审查**, **第三发明人**)
+- *2025*: 一种基于分数阶忆阻神经网络的信号加解密方法及系统 (**进入实质审查**, **第二发明人（学生第一发明人）**)
+- *2024*: 基于四维忆阻混沌系统的图像加密与检索方法、系统 (**进入实质审查**, **第三发明人**)
 
 ## CN Utility Model Patents
 
-- *2025*: [一种低功耗多模态智能花卉养护装置](https://pss-system.cponline.cnipa.gov.cn/) (**授权**, **第一发明人**)
+- *2025*: 一种低功耗多模态智能花卉养护装置 (**授权**, **第一发明人**)
 
 <span class='anchor' id='scholarships'></span>
 
