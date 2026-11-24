@@ -30,7 +30,9 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 <span class='anchor' id='publications'></span>
 
-# 📝 Recent Work (First / Co-first Author) | <sup>†</sup> Equal Contribution
+# 📝 Recent Work
+
+<p style="margin-top:-0.4rem;font-size:0.85em;color:#666;"><sup>*</sup> Corresponding author; <sup>†</sup> Equal contribution.</p>
 
 <div style="display:flex;gap:1rem;align-items:flex-start;flex-wrap:wrap;margin:0.5rem 0 1.5rem;">
   <img src="/images/bone-detr-architecture.png" alt="Bone-DETR overall architecture, Global Structure Guidance Module, and Adaptive Progressive Memory" style="display:block;flex:1 1 320px;width:45%;max-width:45%;min-width:280px;aspect-ratio:16/9;object-fit:contain;background:#fff;margin:0;border-radius:12px;">
