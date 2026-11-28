@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Pengxiang Fu (付鹏翔). I am a master's student in Biomedical Engineering at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at <span class="intro-lab" style="display:inline-flex;align-items:center;gap:0.3em;vertical-align:middle;white-space:nowrap;">[IDEA Lab](https://idea.bme.shanghaitech.edu.cn/) <a href="https://idea.bme.shanghaitech.edu.cn/" aria-label="IDEA Lab website" style="display:inline-flex;"><img class="intro-lab-logo" src="/images/idea-lab-banner.png" alt="ShanghaiTech University IDEA Research Lab logo" width="86" height="24" style="display:inline-block;width:86px;max-width:86px;height:24px;object-fit:contain;margin:0;border-radius:3px;box-shadow:none;"></a></span> under the supervision of [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
+Hi, I’m Pengxiang Fu (付鹏翔). I am a master's student in Biomedical Engineering at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working at [IDEA Lab](https://idea.bme.shanghaitech.edu.cn/) under the supervision of [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 
 My research focuses on **medical image analysis** and **fetal brain atlas construction**.
 
