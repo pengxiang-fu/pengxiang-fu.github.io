@@ -128,15 +128,4 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 - <img class="education-logo" src="/images/shanghaitech-emblem.png" alt="ShanghaiTech University logo"> **2026–Present**, M.Sc. student in Biomedical Engineering, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/). Supervisor: [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 - <img class="education-logo" src="/images/university-of-jinan-logo.png" alt="University of Jinan logo"> **2021–2026**, B.Eng. in Computer Science and Technology, [University of Jinan](https://www.ujn.edu.cn/). Undergraduate research supervisors: [Prof. Hui Zhao](https://yjs.ujn.edu.cn/info/1212/13116.htm) and [Prof. Bin Guan](https://space.bilibili.com/52502322). Prof. Guan is also a well-known <a href="https://www.counter-strike.net/"><img src="https://cdn.fastly.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm_blk.svg" alt="" aria-hidden="true" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.2em;">Counter-Strike</a> content creator.
 
-<span class='anchor' id='visitor-map'></span>
-
-# 🌍 Visitor Map
-
-<div style="text-align:center;">
-  <a href="https://www.visitordots.com/details/vd_hDW2yaukXuIHVDcSj7oAaXx6" aria-label="View visitor map details">
-    <img id="visitor-map-image" src="/images/visitor-map-fallback.svg" data-src="https://map.visitordots.com/vmap/202702590414509.png" alt="Visitor map" style="display:block;width:100%;max-width:800px;height:auto;border:0;margin:0 auto;">
-  </a>
-  <p id="visitor-map-status" style="margin:0.4rem 0;font-size:0.75em;color:#687583;">Saved map snapshot · November 28, 2026</p>
-</div>
-<script src="/assets/js/visitor-count.js" defer></script>
 
