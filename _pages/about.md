@@ -134,8 +134,6 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 <div class="visitor-count" aria-live="polite">
   <span id="busuanzi_container_site_uv"><i class="fas fa-user" aria-hidden="true"></i> Visitors <span id="busuanzi_value_site_uv">—</span></span>
-  <span class="visitor-count-divider" aria-hidden="true">·</span>
-  <span id="busuanzi_container_site_pv"><i class="fas fa-eye" aria-hidden="true"></i> Page views <span id="busuanzi_value_site_pv">—</span></span>
 </div>
 
 <div style="text-align:center;">
