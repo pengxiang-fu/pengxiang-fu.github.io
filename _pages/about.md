@@ -41,15 +41,20 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     <u><strong>Pengxiang Fu</strong></u>, Bin Guan<sup>*</sup>, Jinkun Yao<br>
     <em>Expert Systems with Applications (ESWA), 2026</em>. <span class="metric-highlight">IF = 9.4</span>.</p>
     <p style="margin:0.65rem 0 0;font-size:0.9em;">Bone-DETR addresses limited global context and underused multi-depth features in extremity fracture localization. By introducing Global Structure Guidance and Adaptive Progressive Memory, it improves fracture localization in X-ray images, with consistent gains on lower-limb and pediatric wrist datasets.</p>
+    <div class="paper-actions">
+    <a href="https://doi.org/10.1016/j.eswa.2026.135267" class="paper-action" target="_blank" rel="noopener noreferrer">DOI</a>
     <details class="paper-bibtex">
-      <summary class="btn btn--inverse">BibTeX</summary>
+      <summary class="paper-action">BibTeX</summary>
       <pre><code>@article{fu2026bonedetr,
   title = { {Bone-DETR}: Skeletal Context and Progressive Memory for Extremity Fracture Localization},
   author = {Fu, Pengxiang and Guan, Bin and Yao, Jinkun},
   journal = {Expert Systems with Applications},
-  year = {2026}
+  year = {2026},
+  pages = {135267},
+  doi = {10.1016/j.eswa.2026.135267}
 }</code></pre>
     </details>
+    </div>
   </div>
 </div>
 
@@ -60,9 +65,10 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     Mengwei Niu<sup>†</sup>, <u><strong>Pengxiang Fu</strong></u><sup>†</sup>, Hui Zhao<sup>*</sup>, Sijie Niu, Xizhan Gao, Mingwen Zheng, Lixiang Li<br>
     <em>2025 International Joint Conference on Neural Networks (IJCNN 2025)</em></p>
     <p style="margin:0.65rem 0;font-size:0.9em;">We address the challenge of achieving synchronization within a user-defined time bound in fractional-order multi-modal memristive neural networks. By introducing a predefined-time stability theorem and a feedback controller, we enable flexible synchronization timing and demonstrate its application to signal encryption and decryption.</p>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11228438/" class="btn btn--inverse" style="text-decoration:none;" target="_blank" rel="noopener noreferrer">Paper</a>
+    <div class="paper-actions">
+    <a href="https://doi.org/10.1109/IJCNN64981.2025.11228438" class="paper-action" target="_blank" rel="noopener noreferrer">DOI</a>
     <details class="paper-bibtex">
-      <summary class="btn btn--inverse">BibTeX</summary>
+      <summary class="paper-action">BibTeX</summary>
       <pre><code>@inproceedings{niu2025predefined,
   title = {Predefined-Time Synchronization Control of Fractional-Order Multi-modal Memristive Neural Networks},
   author = {Niu, Mengwei and Fu, Pengxiang and Zhao, Hui and Niu, Sijie and Gao, Xizhan and Zheng, Mingwen and Li, Lixiang},
@@ -72,6 +78,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
   doi = {10.1109/IJCNN64981.2025.11228438}
 }</code></pre>
     </details>
+    </div>
   </div>
 </div>
 

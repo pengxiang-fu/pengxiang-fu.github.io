@@ -123,8 +123,37 @@
   font-weight: 700;
 }
 
+.paper-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.6rem;
+
+  .paper-action {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.18rem 0.55rem;
+    border: 1px solid #ccd2d8;
+    border-radius: 4px;
+    background: #fff;
+    color: #4c5966;
+    font-size: 0.72rem;
+    font-weight: 500;
+    line-height: 1.4;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover, &:focus-visible {
+      background: #f0f4f8;
+      border-color: #7b8a99;
+      text-decoration: none;
+    }
+  }
+}
+
 .paper-bibtex {
-  margin-top: 0.65rem;
+  display: contents;
 
   summary {
     list-style: none;
@@ -136,7 +165,9 @@
   }
 
   pre {
-    margin-top: 0.5rem;
+    flex-basis: 100%;
+    min-width: 0;
+    margin: 0.2rem 0 0;
     white-space: pre-wrap;
     overflow-wrap: anywhere;
     font-size: 0.75em;
