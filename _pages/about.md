@@ -42,7 +42,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     <em>Expert Systems with Applications (ESWA), 2026</em>. <span class="metric-highlight">IF = 9.4</span>.</p>
     <p style="margin:0.65rem 0 0;font-size:0.9em;">Bone-DETR addresses limited global context and underused multi-depth features in extremity fracture localization. By introducing Global Structure Guidance and Adaptive Progressive Memory, it improves fracture localization in X-ray images, with consistent gains on lower-limb and pediatric wrist datasets.</p>
     <div class="paper-actions">
-    <a href="https://doi.org/10.1016/j.eswa.2026.135267" class="paper-action" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://doi.org/10.1016/j.eswa.2026.135267" class="paper-action" target="_blank" rel="noopener noreferrer">Paper</a>
     <details class="paper-bibtex">
       <summary class="paper-action">BibTeX</summary>
       <pre><code>@article{fu2026bonedetr,
@@ -66,7 +66,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
     <em>2025 International Joint Conference on Neural Networks (IJCNN 2025)</em></p>
     <p style="margin:0.65rem 0;font-size:0.9em;">We address the challenge of achieving synchronization within a user-defined time bound in fractional-order multi-modal memristive neural networks. By introducing a predefined-time stability theorem and a feedback controller, we enable flexible synchronization timing and demonstrate its application to signal encryption and decryption.</p>
     <div class="paper-actions">
-    <a href="https://doi.org/10.1109/IJCNN64981.2025.11228438" class="paper-action" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a href="https://doi.org/10.1109/IJCNN64981.2025.11228438" class="paper-action" target="_blank" rel="noopener noreferrer">Paper</a>
     <details class="paper-bibtex">
       <summary class="paper-action">BibTeX</summary>
       <pre><code>@inproceedings{niu2025predefined,
@@ -131,6 +131,13 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 <span class='anchor' id='visitor-map'></span>
 
 # 🌍 Visitor Map
+
+<div class="visitor-count" aria-live="polite">
+  <span id="busuanzi_container_site_uv"><i class="fas fa-user" aria-hidden="true"></i> Visitors <span id="busuanzi_value_site_uv">—</span></span>
+  <span class="visitor-count-divider" aria-hidden="true">·</span>
+  <span id="busuanzi_container_site_pv"><i class="fas fa-eye" aria-hidden="true"></i> Page views <span id="busuanzi_value_site_pv">—</span></span>
+</div>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <div style="text-align:center;">
   <a href="https://www.visitordots.com/details/vd_hDW2yaukXuIHVDcSj7oAaXx6" aria-label="View visitor map details">
