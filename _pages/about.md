@@ -132,14 +132,11 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 
 # 🌍 Visitor Map
 
-<div class="visitor-count" aria-live="polite">
-  <span id="busuanzi_container_site_uv"><i class="fas fa-user" aria-hidden="true"></i> Visitors <span id="busuanzi_value_site_uv">—</span></span>
-</div>
-
 <div style="text-align:center;">
   <a href="https://www.visitordots.com/details/vd_hDW2yaukXuIHVDcSj7oAaXx6" aria-label="View visitor map details">
-    <img id="visitor-map-image" data-src="https://map.visitordots.com/vmap/202702590414509.png" alt="Visitor map" style="display:block;width:100%;max-width:800px;height:auto;border:0;margin:0 auto;">
+    <img id="visitor-map-image" src="/images/visitor-map-fallback.svg" data-src="https://map.visitordots.com/vmap/202702590414509.png" alt="Visitor map" style="display:block;width:100%;max-width:800px;height:auto;border:0;margin:0 auto;">
   </a>
+  <p id="visitor-map-status" style="margin:0.4rem 0;font-size:0.75em;color:#687583;">Saved map snapshot · November 28, 2026</p>
 </div>
 <script src="/assets/js/visitor-count.js" defer></script>
 
