@@ -12,26 +12,18 @@
     // The URL preference still applies when browser storage is unavailable.
   }
 
-  var map = document.getElementById('visitor-map-image');
-  var status = document.getElementById('visitor-map-status');
+  var counter = document.querySelector('.visitor-count');
   var production = window.location.hostname === 'pengxiang-fu.github.io';
 
   if (!production || excluded) {
-    if (status) status.textContent = 'Saved map snapshot · November 28, 2026' +
-      (excluded ? ' · Your visits are excluded.' : ' · Local preview.');
+    if (counter) counter.textContent = excluded
+      ? 'Your visits are excluded.'
+      : 'Visitor statistics disabled in local preview.';
     return;
   }
 
-  if (!map) return;
-  var fallback = map.getAttribute('src');
-  map.onerror = function () {
-    map.onerror = null;
-    map.onload = null;
-    map.src = fallback;
-    if (status) status.textContent = 'Saved map snapshot · November 28, 2026 · Live map temporarily unavailable.';
-  };
-  map.onload = function () {
-    if (status) status.textContent = 'Live visitor map';
-  };
-  map.src = map.getAttribute('data-src');
+  var script = document.createElement('script');
+  script.async = true;
+  script.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+  document.head.appendChild(script);
 }());

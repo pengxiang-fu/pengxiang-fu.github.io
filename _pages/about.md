@@ -128,4 +128,7 @@ My research focuses on **medical image analysis** and **fetal brain atlas constr
 - <img class="education-logo" src="/images/shanghaitech-emblem.png" alt="ShanghaiTech University logo"> **2026–Present**, M.Sc. student in Biomedical Engineering, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/). Supervisor: [Prof. Dinggang Shen](https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm).
 - <img class="education-logo" src="/images/university-of-jinan-logo.png" alt="University of Jinan logo"> **2021–2026**, B.Eng. in Computer Science and Technology, [University of Jinan](https://www.ujn.edu.cn/). Undergraduate research supervisors: [Prof. Hui Zhao](https://yjs.ujn.edu.cn/info/1212/13116.htm) and [Prof. Bin Guan](https://space.bilibili.com/52502322). Prof. Guan is also a well-known <a href="https://www.counter-strike.net/"><img src="https://cdn.fastly.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm_blk.svg" alt="" aria-hidden="true" style="height:1em;width:auto;vertical-align:-0.15em;margin-right:0.2em;">Counter-Strike</a> content creator.
 
-
+<div class="visitor-count" style="margin-top:2rem;" aria-live="polite">
+  <span id="busuanzi_container_site_uv"><i class="fas fa-user" aria-hidden="true"></i> Visitors <span id="busuanzi_value_site_uv">—</span></span>
+</div>
+<script src="/assets/js/visitor-count.js" defer></script>
