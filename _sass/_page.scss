@@ -123,6 +123,26 @@
   font-weight: 700;
 }
 
+.paper-bibtex {
+  margin-top: 0.65rem;
+
+  summary {
+    list-style: none;
+    text-decoration: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  pre {
+    margin-top: 0.5rem;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    font-size: 0.75em;
+  }
+}
+
 .education-logo {
   width: 1.5em;
   height: 1.5em;
