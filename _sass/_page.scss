@@ -208,6 +208,19 @@
   vertical-align: -0.4em;
 }
 
+.intro-lab {
+  white-space: nowrap;
+
+  .intro-lab-logo {
+    display: inline-block;
+    width: auto;
+    height: 1.65em;
+    margin: 0 0.12em 0 0.2em;
+    vertical-align: middle;
+    border-radius: 3px;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
